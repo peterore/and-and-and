@@ -1,10 +1,10 @@
 # and-and-and
 blank
-## list structure
+## heading structure
 ### third level
 #### fourth level
 ##### and so on
-## more lists
+## more headings
 ### and levels
 # OK
 that's good.
